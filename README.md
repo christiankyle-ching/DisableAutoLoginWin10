@@ -13,6 +13,8 @@ For more information, read these threads:
 ## IMPORTANT DISCLAIMER
 **I will not be responsible to any damages** that this program may cause your machine. **DO A SYSTEM BACKUP FIRST!** Read the [LICENSE](LICENSE) for more information.
 
+_Windows Defender SmartScreen might block the execution of this file. Read the [source code](DISABLE_AUTO_LOGIN.bat) if you have any doubts, or run a VirusTotal scan._
+
 ## How to Install?
 **[Download as ZIP](https://github.com/christiankyle-ching/DisableAutoLoginWin10/archive/refs/heads/main.zip)**, then **extract** to your desired location.
 
@@ -24,3 +26,6 @@ Right-click `RESTORE.bat` > `Run as Administrator`.
 
 ## Auto-Login is back after Windows Update?
 Just **re-run the script** : `DISABLE_AUTO_LOGIN.bat` > `Run as Administrator`.
+
+### Dependencies
+- [SetACL](https://helgeklein.com/setacl/) - for changing registry permissions
