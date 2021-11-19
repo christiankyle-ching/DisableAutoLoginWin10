@@ -10,6 +10,9 @@ For more information, read these threads:
 - [Summary of Workarounds](https://answers.microsoft.com/en-us/windows/forum/all/how-to-stop-auto-login-of-last-user-windows-10/1ce4b352-0856-40c0-87a8-2f8ef299007d?msgId=099c2bd3-ad2d-4ffe-bb97-ab04b6eaeb58). This script uses **Solution #2 + changing permissions to avoid the problem stated**.
   - _This link might not work in the future, as Microsoft Answers does not yet have a permalink feature for replies..._
 
+## IMPORTANT DISCLAIMER
+**I will not be responsible to any damages** that this program may cause your machine. **DO A SYSTEM BACKUP FIRST!** Read the [LICENSE](LICENSE) for more information.
+
 ## How to Install?
 **[Download as ZIP](https://github.com/christiankyle-ching/DisableAutoLoginWin10/archive/refs/heads/main.zip)**, then **extract** to your desired location.
 
