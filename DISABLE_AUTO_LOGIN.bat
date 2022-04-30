@@ -1,6 +1,6 @@
 @echo OFF
 
-cd %~dp0
+cd /D %~dp0
 
 @REM BACKUP - Commented because it's the same for every machine
 @REM reg export HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Authentication\LogonUI\UserSwitch backup.reg
